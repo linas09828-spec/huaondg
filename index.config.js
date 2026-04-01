@@ -77,7 +77,7 @@ var index_config_default = {
   cms: {list: [
   {name: "🔞滴滴", address: "https://api.ddapi.cc/api.php/provide/vod"},
   {name: "🔞鸡坤", address: "https://jkunzyapi.com/api.php/provide/vod"},
-  {name: "🔞TG资源", address: "https://tgzyz.pp.ua/api.php/provide/vod"},
+  {name: "红牛", address: "https://www.hongniuzy2.com/api.php/provide/vod"},
   {name: "🔞越南", address: "https://vnzyz.com/api.php/provide/vod"},
   {name: "🔞奥斯卡", address: "https://aosikazy4.com/api.php/provide/vod"},
   {name: "🔞X细胞", address: "https://www.xxibaozyw.com/api.php/provide/vod"},
@@ -103,7 +103,7 @@ var index_config_default = {
   {name: "🔞豆豆", address: "https://doudouzy.com/api.php/provide/vod/?ac=list"},
   {name: "🔞色猫", address: "http://caiji.semaozy.net/inc/apijson_vod.php"},
   {name: "🔞黑料X", address: "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list"},
-  {name: "🔞香蕉", address: "https://www.xiangjiaozyw.com/api.php/provide/vod/?ac=list"},
+  {name: "豪华资源", address: "https://hhzyapi.com/api.php/provide/vod"},
   {name: "🔞百万", address: "https://api.bwzyz.com/api.php/provide/vod/at/json"}
 ]},
   alist: [
