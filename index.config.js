@@ -104,7 +104,7 @@ var index_config_default = {
   {name: "🔞色猫", address: "http://caiji.semaozy.net/inc/apijson_vod.php"},
   {name: "🔞黑料X", address: "https://www.heiliaozyapi.com/api.php/provide/vod/?ac=list"},
   {name: "豪华资源", address: "https://hhzyapi.com/api.php/provide/vod"},
-  {name: "🔞百万", address: "https://api.bwzyz.com/api.php/provide/vod/at/json"}
+  {name: "量子资源站", address: "https://cj.lziapi.com/api.php/provide/vod/"}
 ]},
   alist: [
     {
